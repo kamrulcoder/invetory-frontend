@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "https://inventory-app-api-t6ux.onrender.com/";
+const BACKEND_URL =  "https://inventory-app-api-t6ux.onrender.com/";
 
 const API_URL = `${BACKEND_URL}/api/products/`;
 
